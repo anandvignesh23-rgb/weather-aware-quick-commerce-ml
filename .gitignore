@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/
+
+# Reproducible generated datasets
+data/synthetic_quick_commerce_data.csv
+data/processed/*
+!data/processed/.gitkeep
+
+# Trained model artifacts
+models/*
+!models/.gitkeep

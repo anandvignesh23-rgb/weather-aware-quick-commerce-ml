@@ -1,0 +1,19 @@
+{
+  "target": "delivery_fee",
+  "split": "time_based_80_20",
+  "train_rows": 36960,
+  "test_rows": 9240,
+  "best_model": "LinearRegression",
+  "models": {
+    "LinearRegression": {
+      "MAE": 2.4608,
+      "RMSE": 3.0917,
+      "R2": 0.9294
+    },
+    "RandomForestRegressor": {
+      "MAE": 2.505,
+      "RMSE": 3.1368,
+      "R2": 0.9273
+    }
+  }
+}
