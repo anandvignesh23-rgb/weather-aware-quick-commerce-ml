@@ -3,6 +3,7 @@ from __future__ import annotations
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
+from xgboost import XGBRegressor
 
 from evaluate import evaluate_regression
 from preprocessing import build_preprocessor, prepare_data, time_based_split
@@ -55,6 +56,17 @@ def train() -> dict:
             max_depth=16,
             min_samples_leaf=3,
             max_features=0.8,
+            random_state=42,
+            n_jobs=-1,
+        ),
+        "XGBRegressor": XGBRegressor(
+            n_estimators=300,
+            learning_rate=0.05,
+            max_depth=7,
+            min_child_weight=3,
+            subsample=0.85,
+            colsample_bytree=0.85,
+            objective="reg:squarederror",
             random_state=42,
             n_jobs=-1,
         ),

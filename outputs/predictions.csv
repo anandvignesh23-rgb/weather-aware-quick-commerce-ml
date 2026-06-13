@@ -1,45 +1,45 @@
 date,city,weather_type,product_id,product_name,category,predicted_demand,predicted_delivery_fee
-2026-06-12,Mumbai,heavy_rain,P021,Umbrella,Rain Essentials,62.74985424297923,65.79
-2026-06-12,Mumbai,heavy_rain,P022,Raincoat,Rain Essentials,56.03037958569208,65.79
-2026-06-12,Mumbai,heavy_rain,P017,Biscuits,Snacks,55.03390151515153,65.79
-2026-06-12,Mumbai,heavy_rain,P024,Instant Noodles,Quick Meals,50.48870743839494,65.79
-2026-06-12,Mumbai,heavy_rain,P016,Chips,Snacks,48.90172844516594,65.79
-2026-06-12,Mumbai,heavy_rain,P005,Mineral Water,Cold Beverages,43.31744047619048,65.79
-2026-06-12,Mumbai,heavy_rain,P012,Tea Powder,Hot Beverages,41.80963827838828,65.79
-2026-06-12,Mumbai,heavy_rain,P019,Namkeen,Snacks,38.43584035228058,65.79
-2026-06-12,Mumbai,heavy_rain,P020,Cookies,Snacks,37.15714491577263,65.79
-2026-06-12,Mumbai,heavy_rain,P032,Milk,General Grocery,36.1614922010057,65.79
-2026-06-12,Mumbai,heavy_rain,P002,Pepsi,Cold Beverages,34.37622922638833,65.79
-2026-06-12,Mumbai,heavy_rain,P001,Coca Cola,Cold Beverages,33.61249771120025,65.79
-2026-06-12,Mumbai,heavy_rain,P034,Eggs,General Grocery,33.1119745603124,65.79
-2026-06-12,Mumbai,heavy_rain,P033,Bread,General Grocery,31.92755438839068,65.79
-2026-06-12,Mumbai,heavy_rain,P037,Curd,General Grocery,31.870411531247818,65.79
-2026-06-12,Mumbai,heavy_rain,P025,Pasta,Quick Meals,31.23789682539682,65.79
-2026-06-12,Mumbai,heavy_rain,P003,Sprite,Cold Beverages,30.423723223660527,65.79
-2026-06-12,Mumbai,heavy_rain,P042,Tomatoes,Fresh Produce,30.373722392946966,65.79
-2026-06-12,Mumbai,heavy_rain,P027,Ready-to-Eat Meals,Quick Meals,29.791611837518843,65.79
-2026-06-12,Mumbai,heavy_rain,P013,Coffee Powder,Hot Beverages,27.949897186147176,65.79
-2026-06-12,Mumbai,heavy_rain,P043,Onions,Fresh Produce,27.640668894422447,65.79
-2026-06-12,Mumbai,heavy_rain,P023,Waterproof Phone Pouch,Rain Essentials,27.48051316738816,65.79
-2026-06-12,Mumbai,heavy_rain,P044,Potatoes,Fresh Produce,27.34623238163757,65.79
-2026-06-12,Mumbai,heavy_rain,P040,Bananas,Fresh Produce,27.025745036682526,65.79
-2026-06-12,Mumbai,heavy_rain,P026,Soup Packets,Quick Meals,26.827313762626268,65.79
-2026-06-12,Mumbai,heavy_rain,P031,Coconut Water,Summer Essentials,26.10192067165218,65.79
-2026-06-12,Mumbai,heavy_rain,P018,Popcorn,Snacks,25.642737268518516,65.79
-2026-06-12,Mumbai,heavy_rain,P007,Vanilla Ice Cream,Ice Cream and Frozen Desserts,24.118111684771172,65.79
-2026-06-12,Mumbai,heavy_rain,P008,Chocolate Ice Cream,Ice Cream and Frozen Desserts,23.4068111145651,65.79
-2026-06-12,Mumbai,heavy_rain,P030,Electrolyte Drink,Summer Essentials,22.92740856057105,65.79
-2026-06-12,Mumbai,heavy_rain,P004,Cold Coffee,Cold Beverages,20.878764090919777,65.79
-2026-06-12,Mumbai,heavy_rain,P006,Lemon Juice,Cold Beverages,20.6402399801595,65.79
-2026-06-12,Mumbai,heavy_rain,P014,Hot Chocolate,Hot Beverages,20.15932133838384,65.79
-2026-06-12,Mumbai,heavy_rain,P015,Green Tea,Hot Beverages,20.118127705627707,65.79
-2026-06-12,Mumbai,heavy_rain,P010,Kulfi,Ice Cream and Frozen Desserts,19.567178238088168,65.79
-2026-06-12,Mumbai,heavy_rain,P039,Paneer,General Grocery,19.251024080086573,65.79
-2026-06-12,Mumbai,heavy_rain,P029,ORS,Summer Essentials,18.421580999971475,65.79
-2026-06-12,Mumbai,heavy_rain,P041,Apples,Fresh Produce,17.610672539266293,65.79
-2026-06-12,Mumbai,heavy_rain,P038,Butter,General Grocery,16.37041174116146,65.79
-2026-06-12,Mumbai,heavy_rain,P009,Ice Cream Tub,Ice Cream and Frozen Desserts,14.026629069715009,65.79
-2026-06-12,Mumbai,heavy_rain,P035,Rice,General Grocery,13.718551587301585,65.79
-2026-06-12,Mumbai,heavy_rain,P036,Atta,General Grocery,13.679386724386726,65.79
-2026-06-12,Mumbai,heavy_rain,P028,Sunscreen,Summer Essentials,13.078365349927846,65.79
-2026-06-12,Mumbai,heavy_rain,P011,Frozen Yogurt,Ice Cream and Frozen Desserts,12.055782435653686,65.79
+2026-06-12,Mumbai,heavy_rain,P021,Umbrella,Rain Essentials,62.50303,66.54
+2026-06-12,Mumbai,heavy_rain,P017,Biscuits,Snacks,57.3924,66.54
+2026-06-12,Mumbai,heavy_rain,P024,Instant Noodles,Quick Meals,56.694744,66.54
+2026-06-12,Mumbai,heavy_rain,P022,Raincoat,Rain Essentials,55.596672,66.54
+2026-06-12,Mumbai,heavy_rain,P016,Chips,Snacks,48.4469,66.54
+2026-06-12,Mumbai,heavy_rain,P012,Tea Powder,Hot Beverages,42.96862,66.54
+2026-06-12,Mumbai,heavy_rain,P005,Mineral Water,Cold Beverages,40.97738,66.54
+2026-06-12,Mumbai,heavy_rain,P019,Namkeen,Snacks,38.99494,66.54
+2026-06-12,Mumbai,heavy_rain,P020,Cookies,Snacks,37.35936,66.54
+2026-06-12,Mumbai,heavy_rain,P002,Pepsi,Cold Beverages,33.88971,66.54
+2026-06-12,Mumbai,heavy_rain,P032,Milk,General Grocery,33.13998,66.54
+2026-06-12,Mumbai,heavy_rain,P027,Ready-to-Eat Meals,Quick Meals,33.10369,66.54
+2026-06-12,Mumbai,heavy_rain,P018,Popcorn,Snacks,32.534817,66.54
+2026-06-12,Mumbai,heavy_rain,P025,Pasta,Quick Meals,31.77793,66.54
+2026-06-12,Mumbai,heavy_rain,P001,Coca Cola,Cold Beverages,31.522814,66.54
+2026-06-12,Mumbai,heavy_rain,P037,Curd,General Grocery,30.070206,66.54
+2026-06-12,Mumbai,heavy_rain,P033,Bread,General Grocery,29.92772,66.54
+2026-06-12,Mumbai,heavy_rain,P034,Eggs,General Grocery,29.898092,66.54
+2026-06-12,Mumbai,heavy_rain,P023,Waterproof Phone Pouch,Rain Essentials,29.858124,66.54
+2026-06-12,Mumbai,heavy_rain,P026,Soup Packets,Quick Meals,29.441088,66.54
+2026-06-12,Mumbai,heavy_rain,P003,Sprite,Cold Beverages,29.367847,66.54
+2026-06-12,Mumbai,heavy_rain,P043,Onions,Fresh Produce,28.64846,66.54
+2026-06-12,Mumbai,heavy_rain,P042,Tomatoes,Fresh Produce,28.468893,66.54
+2026-06-12,Mumbai,heavy_rain,P013,Coffee Powder,Hot Beverages,28.383512,66.54
+2026-06-12,Mumbai,heavy_rain,P044,Potatoes,Fresh Produce,27.898483,66.54
+2026-06-12,Mumbai,heavy_rain,P007,Vanilla Ice Cream,Ice Cream and Frozen Desserts,26.110306,66.54
+2026-06-12,Mumbai,heavy_rain,P031,Coconut Water,Summer Essentials,24.971375,66.54
+2026-06-12,Mumbai,heavy_rain,P040,Bananas,Fresh Produce,24.95622,66.54
+2026-06-12,Mumbai,heavy_rain,P008,Chocolate Ice Cream,Ice Cream and Frozen Desserts,22.43768,66.54
+2026-06-12,Mumbai,heavy_rain,P014,Hot Chocolate,Hot Beverages,22.330336,66.54
+2026-06-12,Mumbai,heavy_rain,P004,Cold Coffee,Cold Beverages,22.033737,66.54
+2026-06-12,Mumbai,heavy_rain,P015,Green Tea,Hot Beverages,21.806755,66.54
+2026-06-12,Mumbai,heavy_rain,P030,Electrolyte Drink,Summer Essentials,21.593723,66.54
+2026-06-12,Mumbai,heavy_rain,P010,Kulfi,Ice Cream and Frozen Desserts,21.017693,66.54
+2026-06-12,Mumbai,heavy_rain,P006,Lemon Juice,Cold Beverages,20.160618,66.54
+2026-06-12,Mumbai,heavy_rain,P029,ORS,Summer Essentials,20.01475,66.54
+2026-06-12,Mumbai,heavy_rain,P041,Apples,Fresh Produce,18.870523,66.54
+2026-06-12,Mumbai,heavy_rain,P039,Paneer,General Grocery,18.665838,66.54
+2026-06-12,Mumbai,heavy_rain,P038,Butter,General Grocery,17.353039,66.54
+2026-06-12,Mumbai,heavy_rain,P009,Ice Cream Tub,Ice Cream and Frozen Desserts,16.194862,66.54
+2026-06-12,Mumbai,heavy_rain,P035,Rice,General Grocery,16.004942,66.54
+2026-06-12,Mumbai,heavy_rain,P036,Atta,General Grocery,15.710819,66.54
+2026-06-12,Mumbai,heavy_rain,P011,Frozen Yogurt,Ice Cream and Frozen Desserts,13.378098,66.54
+2026-06-12,Mumbai,heavy_rain,P028,Sunscreen,Summer Essentials,12.778098,66.54

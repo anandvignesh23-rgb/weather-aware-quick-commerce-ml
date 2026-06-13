@@ -38,11 +38,11 @@ The generator includes all required columns plus optional customer segment, comp
 
 ### Demand Forecasting
 
-The demand target is `units_sold`. A Linear Regression baseline and Random Forest Regressor are compared using MAE, RMSE, and R². The best model by RMSE is saved to `models/demand_model.pkl`.
+The demand target is `units_sold`. Linear Regression, Random Forest Regressor, and XGBoost Regressor are compared using MAE, RMSE, and R². The best model by RMSE is saved to `models/demand_model.pkl`.
 
 ### Dynamic Delivery Pricing
 
-The pricing target is `delivery_fee`. Linear Regression and Random Forest Regressor are compared with the same regression metrics. The best model is saved to `models/delivery_fee_model.pkl`.
+The pricing target is `delivery_fee`. Linear Regression, Random Forest Regressor, and XGBoost Regressor are compared with the same regression metrics. The best model is saved to `models/delivery_fee_model.pkl`.
 
 ### Product Recommendation
 
@@ -74,6 +74,13 @@ After training, metrics are written to:
 
 The JSON files identify the best model and contain MAE, RMSE, and R² for every candidate.
 
+### Achieved Results
+
+| Task | Best model | MAE | RMSE | R² |
+|---|---|---:|---:|---:|
+| Product demand | XGBRegressor | 3.9134 units | 5.0945 units | 0.7751 |
+| Delivery pricing | XGBRegressor | ₹2.4375 | ₹3.0489 | 0.9313 |
+
 ## Dashboard
 
 The Streamlit app provides:
@@ -102,6 +109,12 @@ python src/train_demand_model.py
 python src/train_pricing_model.py
 python src/predict.py
 streamlit run app.py
+```
+
+On macOS, XGBoost also requires the OpenMP runtime:
+
+```bash
+brew install libomp
 ```
 
 The default prediction command uses the requested Mumbai heavy-rain example. Generated predictions and recommendations are saved under `outputs/`.
